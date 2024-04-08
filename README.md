@@ -10,6 +10,8 @@
 - 👨‍💻 All of my projects are available at **https://chanjanawijesekera.com/**
 
 
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 </div><h3 align="left">Connect with me:</h3>
 <div> <a href="https://www.linkedin.com/in/chanjana-wijesekera/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:cdwijesekera123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
