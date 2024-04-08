@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Project TRIF](https://github.com/Chanjana/Laravel-ecommerce.git)
 
-- 🌱 I’m currently learning **Laravel, React, Flutter**
+- 🌱 I’m currently learning **Laravel, React and Flutter**
 
 - 📫 How to reach me **cdwijesekera123@gmail.com**
 - 👨‍💻 All of my projects are available at **https://chanjanawijesekera.com/**
