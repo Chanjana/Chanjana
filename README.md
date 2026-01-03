@@ -1,13 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.linkedin.com/in/chanjana-wijesekera/)
 <h1 align="center">Hi 👋, I'm Chanjana</h1>
-<h3 align="center">A passionate software engineering student.</h3>
 
-- 🔭 I’m currently working on [Project TRIF](https://github.com/Chanjana/Laravel-ecommerce.git)
+- 🔭 I’m currently working on [Project - Agent SHIP](https://github.com/Chanjana/Agent_SHIP.git)
 
-- 🌱 I’m currently learning **Laravel, React and Flutter**
+- 🌱 I’m currently learning **AI Agent Developmet, Machine learning and AWS Cloud**
 
 - 📫 How to reach me **cdwijesekera123@gmail.com**
-- 👨‍💻 All of my projects are available at **https://chanjanawijesekera.com/**
 
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
