@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.linkedin.com/in/chanjana-wijesekera/)
 <h1 align="center">Hi 👋, I'm Chanjana</h1>
 
-- 🔭 I’m currently working at Loons Lab as a Business Development Manager you can also refer to my final year project [Project - Agent SHIP](https://github.com/Chanjana/Agent_SHIP.git) that secured a 90 grade and First Class for my Bachelor's in Computer Science degree at Staffordshire University, UK.
+- 🔭 I’m currently working at Loons Lab as a Business Development Manager. You can also refer to my final year project [Project - Agent SHIP](https://github.com/Chanjana/Agent_SHIP.git) that secured a 90 grade and First Class for my Bachelor's in Computer Science degree at Staffordshire University, UK.
 
 - 🌱 From a technical perspective I am currently learning AI Agent Workflow design and development together with Machine Learning. My current work at Loon Lab has supported me in building my skills in requirement elicitation, stakeholder management and client acquisition.
 
